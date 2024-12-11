@@ -92,7 +92,7 @@ It is possible to use an aggregator to retrieve statistics. Setting up an aggreg
 
 #### Hide sushi credentials in detail views
 
-If you want, you can hide the display of SUSHI credentials in the detailed view for a usage data provider in the UI. For more information on this, see [Settings > General > Display settings](../../Settings/Settings_eusage/settings_eusage/#settings--general--display-settings).
+If you want, you can hide the display of SUSHI credentials in the detailed view for a usage data provider in the UI. For more information on this, see [Settings > General > Display settings](../../Settings/Settings_eusage/settings_eusage.md/#settings-general-display-settings).
 
 
 ## Starting the harvesting process
