@@ -87,7 +87,7 @@ Note: Only enter the_ base URL_ to the service, not the complete URL for an API 
 
 #### Setting up an aggregator
 
-It is possible to use an aggregator to retrieve statistics. Setting up an aggregator can be done in the Settings app. For more information on this, see [Settings > General > Aggregators](../../Settings/Settings_eusage/settings_eusage/#settings-general-aggregators).
+It is possible to use an aggregator to retrieve statistics. Setting up an aggregator can be done in the Settings app. For more information on this, see [Settings > General > Aggregators](../../Settings/Settings_eusage/settings_eusage.md/#settings-general-aggregators).
 
 
 #### Hide sushi credentials in detail views
